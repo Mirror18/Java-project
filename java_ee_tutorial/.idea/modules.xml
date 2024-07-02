@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVC-advanced/MVC-advanced.iml" filepath="$PROJECT_DIR$/MVC-advanced/MVC-advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_ee_tutorial.iml" filepath="$PROJECT_DIR$/.idea/java_ee_tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVC/mvc-tutorial.iml" filepath="$PROJECT_DIR$/MVC/mvc-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-basic/web-basic.iml" filepath="$PROJECT_DIR$/web-basic/web-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSP_tutorial/web-developing.iml" filepath="$PROJECT_DIR$/JSP_tutorial/web-developing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-servlet-embedded/web-servlet-embedded.iml" filepath="$PROJECT_DIR$/web-servlet-embedded/web-servlet-embedded.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/JSP_tutorial" />
+    <file type="web" url="file://$PROJECT_DIR$/MVC" />
+    <file type="web" url="file://$PROJECT_DIR$/MVC-advanced" />
+    <file type="web" url="file://$PROJECT_DIR$/web-basic" />
+    <file type="web" url="file://$PROJECT_DIR$/web-servlet-embedded" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/web-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/web-servlet-embedded/pom.xml" />
+        <option value="$PROJECT_DIR$/JSP_tutorial/pom.xml" />
+        <option value="$PROJECT_DIR$/MVC/pom.xml" />
+        <option value="$PROJECT_DIR$/MVC-advanced/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

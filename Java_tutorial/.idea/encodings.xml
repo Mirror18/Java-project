@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/IO-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IO-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JDBC-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JDBC-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maven-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maven-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XML-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XML-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/annotation-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/annotation-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/date-and-time-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/date-and-time-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-mode-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-mode-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/encryption-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/encryption-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exception-handing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exception-handing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/functional_tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/generics-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/generics-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multi-thread-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multi-thread-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/object-oriented-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/object-oriented-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reflect-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reflect-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/regular-expression-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/regular-expression-tutorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-coding-tutorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-coding-tutorial/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

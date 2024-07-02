@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "storage.local.root-dir",
+      "type": "java.lang.String",
+      "description": "Description for storage.local.root-dir."
+    },
+    {
+      "name": "storage.local.allow-empty",
+      "type": "java.lang.String",
+      "description": "Description for storage.local.allow-empty."
+    },
+    {
+      "name": "storage.local.root-dir",
+      "type": "java.lang.String",
+      "description": "Description for storage.local.root-dir."
+    }
+  ] }

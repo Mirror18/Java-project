@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Spring-MVC-tutorial:war">
+    <output-path>$PROJECT_DIR$/web-spring/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>Spring-MVC-tutorial</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="Spring-MVC-tutorial-1.0.war">
+      <element id="artifact" artifact-name="Spring-MVC-tutorial:war exploded" />
+    </root>
+  </artifact>
+</component>

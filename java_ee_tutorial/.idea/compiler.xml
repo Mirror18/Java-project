@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="web-basic" />
+        <module name="mvc-tutorial" />
+        <module name="web-servlet-embedded" />
+        <module name="web-developing" />
+        <module name="MVC-advanced" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java_ee_tutorial" target="21" />
+      <module name="MVC-advanced" target="21" />
+      <module name="mvc-tutorial" target="21" />
+      <module name="web-basic" target="21" />
+      <module name="web-developing" target="1.6" />
+      <module name="web-servlet-embedded" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-parameters" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MVC-advanced" options="" />
+      <module name="mvc-tutorial" options="" />
+      <module name="web-basic" options="" />
+      <module name="web-developing" options="" />
+      <module name="web-servlet-embedded" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="base-tutorial" />
+        <module name="XML-tutorial" />
+        <module name="collection-tutorial" />
+        <module name="encryption-tutorial" />
+        <module name="Web-coding-tutorial" />
+        <module name="reflect-tutorial" />
+        <module name="IO-tutorial" />
+        <module name="date-and-time-tutorial" />
+        <module name="annotation-tutorial" />
+        <module name="maven-tutorial" />
+        <module name="exception-handing-tutorial" />
+        <module name="generics-tutorial" />
+        <module name="Multi-thread-tutorial" />
+        <module name="object-oriented-tutorial" />
+        <module name="regular-expression-tutorial" />
+        <module name="JDBC-tutorial" />
+        <module name="design-mode-tutorial" />
+        <module name="Test-tutorial" />
+        <module name="Functional-programming-tutorial" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="annotation-tutorial" target="21" />
+      <module name="base-tutorial" target="21" />
+      <module name="collection-tutorial" target="21" />
+      <module name="date-and-time-tutorial" target="21" />
+      <module name="design-mode-tutorial" target="21" />
+      <module name="encryption-tutorial" target="21" />
+      <module name="exception-handing-tutorial" target="21" />
+      <module name="Functional-programming-tutorial" target="21" />
+      <module name="generics-tutorial" target="21" />
+      <module name="IO-tutorial" target="21" />
+      <module name="JDBC-tutorial" target="21" />
+      <module name="maven-tutorial" target="21" />
+      <module name="Multi-thread-tutorial" target="21" />
+      <module name="object-oriented-tutorial" target="21" />
+      <module name="reflect-tutorial" target="21" />
+      <module name="regular-expression-tutorial" target="21" />
+      <module name="Test-tutorial" target="21" />
+      <module name="tutorial" target="21" />
+      <module name="Web-coding-tutorial" target="21" />
+      <module name="XML-tutorial" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

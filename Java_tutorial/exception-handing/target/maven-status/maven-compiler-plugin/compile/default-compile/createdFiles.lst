@@ -1,0 +1,8 @@
+com\mirror\exception\ExceptionA.class
+com\mirror\exception\Person.class
+com\mirror\exception\ExceptionB.class
+com\mirror\exception\Assertion.class
+com\mirror\exception\Main.class
+com\mirror\exception\Address.class
+com\mirror\exception\Logging.class
+com\mirror\exception\BaseException.class

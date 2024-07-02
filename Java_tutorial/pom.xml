@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.mirror</groupId>
+    <artifactId>tutorial</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <description>全套Java学习</description>
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <java.version>21</java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+
+    </properties>
+
+    <modules>
+        <module>base-tutorial</module>
+        <module>object-oriented-tutorial</module>
+        <module>exception-handing</module>
+        <module>reflect-tutorial</module>
+        <module>annotation-tutorial</module>
+        <module>generics-tutorial</module>
+        <module>collection-tutorial</module>
+        <module>IO-tutorial</module>
+        <module>date-and-time-tutorial</module>
+        <module>Test-tutorial</module>
+        <module>regular-expression-tutorial</module>
+        <module>encryption-tutorial</module>
+        <module>multi-thread-tutorial</module>
+        <module>Maven-tutorial</module>
+        <module>web-coding-tutorial</module>
+        <module>XML-tutorial</module>
+        <module>JDBC-tutorial</module>
+        <module>functional_tutorial</module>
+        <module>design-mode-tutorial</module>
+    </modules>
+
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.13.0</version>
+                <configuration>
+                    <encoding>UTF-8</encoding>
+                    <source>21</source>
+                    <target>21</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+    <dependencies>
+
+
+    </dependencies>
+
+</project>

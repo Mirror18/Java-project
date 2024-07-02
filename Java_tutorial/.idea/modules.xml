@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/functional_tutorial/Functional-programming-tutorial.iml" filepath="$PROJECT_DIR$/functional_tutorial/Functional-programming-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO-tutorial/IO-tutorial.iml" filepath="$PROJECT_DIR$/IO-tutorial/IO-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC-tutorial/JDBC-tutorial.iml" filepath="$PROJECT_DIR$/JDBC-tutorial/JDBC-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-tutorial/Multi-thread-tutorial.iml" filepath="$PROJECT_DIR$/multi-thread-tutorial/Multi-thread-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-tutorial/Test-tutorial.iml" filepath="$PROJECT_DIR$/Test-tutorial/Test-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-coding-tutorial/Web-coding-tutorial.iml" filepath="$PROJECT_DIR$/web-coding-tutorial/Web-coding-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XML-tutorial/XML-tutorial.iml" filepath="$PROJECT_DIR$/XML-tutorial/XML-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation-tutorial/annotation-tutorial.iml" filepath="$PROJECT_DIR$/annotation-tutorial/annotation-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-tutorial/base-tutorial.iml" filepath="$PROJECT_DIR$/base-tutorial/base-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection-tutorial/collection-tutorial.iml" filepath="$PROJECT_DIR$/collection-tutorial/collection-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date-and-time-tutorial/date-and-time-tutorial.iml" filepath="$PROJECT_DIR$/date-and-time-tutorial/date-and-time-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-mode-tutorial/design-mode-tutorial.iml" filepath="$PROJECT_DIR$/design-mode-tutorial/design-mode-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encryption-tutorial/encryption-tutorial.iml" filepath="$PROJECT_DIR$/encryption-tutorial/encryption-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception-handing/exception-handing-tutorial.iml" filepath="$PROJECT_DIR$/exception-handing/exception-handing-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics-tutorial/generics-tutorial.iml" filepath="$PROJECT_DIR$/generics-tutorial/generics-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven-tutorial/maven-tutorial.iml" filepath="$PROJECT_DIR$/Maven-tutorial/maven-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object-oriented-tutorial/object-oriented-tutorial.iml" filepath="$PROJECT_DIR$/object-oriented-tutorial/object-oriented-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflect-tutorial/reflect-tutorial.iml" filepath="$PROJECT_DIR$/reflect-tutorial/reflect-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regular-expression-tutorial/regular-expression-tutorial.iml" filepath="$PROJECT_DIR$/regular-expression-tutorial/regular-expression-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial.iml" filepath="$PROJECT_DIR$/tutorial.iml" />
+    </modules>
+  </component>
+</project>

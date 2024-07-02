@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web-servlet-embedded:war">
+    <output-path>$PROJECT_DIR$/web-servlet-embedded/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>web-servlet-embedded</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="web-servlet-embedded-1.0.war">
+      <element id="artifact" artifact-name="web-servlet-embedded:war exploded" />
+    </root>
+  </artifact>
+</component>

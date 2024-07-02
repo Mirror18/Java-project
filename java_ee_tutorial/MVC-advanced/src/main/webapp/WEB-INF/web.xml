@@ -1,0 +1,31 @@
+<!DOCTYPE web-app PUBLIC
+        "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+        "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+    <display-name>Archetype Created Web Application</display-name>
+    <filter>
+        <filter-name>EncodingFilter</filter-name>
+        <filter-class>com.mirror.filter.EncodingFilter</filter-class>
+    </filter>
+    <filter>
+        <filter-name>LogFilter</filter-name>
+        <filter-class>com.mirror.filter.LogFilter</filter-class>
+    </filter>
+    <filter>
+        <filter-name>AuthFilter</filter-name>
+        <filter-class>com.mirror.filter.AuthFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>EncodingFilter</filter-name>
+        <url-pattern>/\*</url-pattern>
+    </filter-mapping>
+    <filter-mapping>
+        <filter-name>LogFilter</filter-name>
+        <url-pattern>/\*</url-pattern>
+    </filter-mapping>
+    <filter-mapping>
+        <filter-name>AuthFilter</filter-name>
+        <url-pattern>/user/\*</url-pattern>
+    </filter-mapping>
+</web-app>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b52983d-95a5-479a-bf52-dee46c0674d8" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="21" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="21" />
+  </component>
+  <component name="ProjectId" id="2hfbqLSwYUi1SYEHesHiZxk2SpU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="21" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/design-mode-tutorial" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mirror.struct.bridge" />
+      <recent name="com.mirror.create.builder" />
+      <recent name="com.mirror.create.abstract_factory" />
+      <recent name="com.mirror.stream" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\Java_tutorial\design-mode-tutorial" />
+      <recent name="C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\Java_tutorial\functional_tutorial" />
+      <recent name="C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\Java_tutorial\JDBC-tutorial" />
+      <recent name="C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\Java_tutorial\XML-tutorial" />
+      <recent name="C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\Java_tutorial\web-coding-tutorial" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mirror.action.chain" />
+      <recent name="com.mirror.json" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mirror.action.state.Main" />
+      <module name="design-mode-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mirror.action.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mirror.action.mediator.Main" />
+      <module name="design-mode-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mirror.action.mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mirror.action.interpreter.Test" />
+      <module name="design-mode-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mirror.action.interpreter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Test-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mirror.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mirror.test" />
+      <option name="MAIN_CLASS_NAME" value="com.mirror.test.ConfigTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea " />
+      <envs>
+        <env name="DEBUG" value="true" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestChain.chainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design-mode-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mirror.action.chain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mirror.action.chain" />
+      <option name="MAIN_CLASS_NAME" value="com.mirror.action.chain.TestChain" />
+      <option name="METHOD_NAME" value="chainTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCommand.commandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design-mode-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mirror.action.command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mirror.action.command" />
+      <option name="MAIN_CLASS_NAME" value="com.mirror.action.command.TestCommand" />
+      <option name="METHOD_NAME" value="commandTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ConfigTest" />
+      <item itemvalue="JUnit.TestChain.chainTest" />
+      <item itemvalue="JUnit.TestCommand.commandTest" />
+      <item itemvalue="应用程序.Test" />
+      <item itemvalue="应用程序.Main" />
+      <item itemvalue="应用程序.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main (1)" />
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="JUnit.TestCommand.commandTest" />
+        <item itemvalue="JUnit.TestChain.chainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="2b52983d-95a5-479a-bf52-dee46c0674d8" name="变更" comment="" />
+      <created>1717988272315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717988272315</updated>
+      <workItem from="1717988276253" duration="428000" />
+      <workItem from="1717988716590" duration="77000" />
+      <workItem from="1717988804712" duration="1239000" />
+      <workItem from="1717990064687" duration="71028000" />
+      <workItem from="1718318420388" duration="75997000" />
+      <workItem from="1718904251812" duration="58723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

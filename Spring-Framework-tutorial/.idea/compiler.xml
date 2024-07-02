@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-data-hibernate" />
+        <module name="AOP-error-tutorial" />
+        <module name="AOP-tutorial" />
+        <module name="Spring-DB-tutorial" />
+        <module name="IOC-annotation-tutorial" />
+        <module name="spring-data-mybatis" />
+        <module name="AOP-annotation-tutorial" />
+        <module name="IOC-tutorial" />
+        <module name="spring-data-orm" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AOP-annotation-tutorial" target="21" />
+      <module name="AOP-error-tutorial" target="21" />
+      <module name="AOP-tutorial" target="21" />
+      <module name="IOC-annotation-tutorial" target="21" />
+      <module name="IOC-tutorial" target="21" />
+      <module name="spring-data-hibernate" target="21" />
+      <module name="spring-data-mybatis" target="21" />
+      <module name="spring-data-orm" target="21" />
+      <module name="Spring-DB-tutorial" target="21" />
+      <module name="Spring-Framework-tutorial" target="21" />
+      <module name="Spring-MVC-tutorial" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

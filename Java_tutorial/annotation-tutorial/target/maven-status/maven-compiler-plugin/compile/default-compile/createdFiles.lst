@@ -1,0 +1,4 @@
+com\mirror\annotation\ProcessAnnotation.class
+com\mirror\annotation\UseAnnotation.class
+com\mirror\annotation\Report.class
+com\mirror\annotation\Reports.class

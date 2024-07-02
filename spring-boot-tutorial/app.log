@@ -1,0 +1,106 @@
+2024-06-29T03:56:00.437+08:00  INFO 27832 --- [unnamed] [main] com.mirror.Application                   : Starting Application using Java 21.0.3 with PID 27832 (C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\spring-boot-tutorial\spring-first\target\classes started by mirror in C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\spring-boot-tutorial)
+2024-06-29T03:56:00.439+08:00  INFO 27832 --- [unnamed] [main] com.mirror.Application                   : No active profile set, falling back to 1 default profile: "default"
+2024-06-29T03:56:00.984+08:00  INFO 27832 --- [unnamed] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-06-29T03:56:00.990+08:00  INFO 27832 --- [unnamed] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-29T03:56:00.991+08:00  INFO 27832 --- [unnamed] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-29T03:56:01.013+08:00  INFO 27832 --- [unnamed] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-29T03:56:01.013+08:00  INFO 27832 --- [unnamed] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 546 ms
+2024-06-29T03:56:01.061+08:00  WARN 27832 --- [unnamed] [main] com.zaxxer.hikari.HikariConfig           : HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2024-06-29T03:56:01.062+08:00  INFO 27832 --- [unnamed] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-06-29T03:56:01.274+08:00  INFO 27832 --- [unnamed] [main] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+2024-06-29T03:56:01.275+08:00  INFO 27832 --- [unnamed] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.hsqldb.jdbc.JDBCConnection@7945b206
+2024-06-29T03:56:01.276+08:00  INFO 27832 --- [unnamed] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-06-29T03:56:01.491+08:00  WARN 27832 --- [unnamed] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-06-29T03:56:01.492+08:00  INFO 27832 --- [unnamed] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-06-29T03:56:01.494+08:00  INFO 27832 --- [unnamed] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-06-29T03:56:01.503+08:00  INFO 27832 --- [unnamed] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-06-29T03:56:01.511+08:00 ERROR 27832 --- [unnamed] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2024-06-29T03:57:21.384+08:00  INFO 25728 --- [unnamed] [main] com.mirror.Application                   : Starting Application using Java 21.0.3 with PID 25728 (C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\spring-boot-tutorial\spring-first\target\classes started by mirror in C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\spring-boot-tutorial)
+2024-06-29T03:57:21.385+08:00  INFO 25728 --- [unnamed] [main] com.mirror.Application                   : No active profile set, falling back to 1 default profile: "default"
+2024-06-29T03:57:21.923+08:00  INFO 25728 --- [unnamed] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-06-29T03:57:21.929+08:00  INFO 25728 --- [unnamed] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-29T03:57:21.930+08:00  INFO 25728 --- [unnamed] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-29T03:57:21.952+08:00  INFO 25728 --- [unnamed] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-29T03:57:21.953+08:00  INFO 25728 --- [unnamed] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 540 ms
+2024-06-29T03:57:22.008+08:00  WARN 25728 --- [unnamed] [main] com.zaxxer.hikari.HikariConfig           : HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2024-06-29T03:57:22.009+08:00  INFO 25728 --- [unnamed] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-06-29T03:57:22.215+08:00  INFO 25728 --- [unnamed] [main] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+2024-06-29T03:57:22.215+08:00  INFO 25728 --- [unnamed] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.hsqldb.jdbc.JDBCConnection@e29f4f6
+2024-06-29T03:57:22.216+08:00  INFO 25728 --- [unnamed] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-06-29T03:57:22.412+08:00  WARN 25728 --- [unnamed] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-06-29T03:57:22.413+08:00  INFO 25728 --- [unnamed] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-06-29T03:57:22.414+08:00  INFO 25728 --- [unnamed] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-06-29T03:57:22.422+08:00  INFO 25728 --- [unnamed] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-06-29T03:57:22.431+08:00 ERROR 25728 --- [unnamed] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2024-06-29T04:00:17.169+08:00  INFO 26688 --- [unnamed] [main] com.mirror.Application                   : Starting Application using Java 21.0.3 with PID 26688 (C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\spring-boot-tutorial\spring-first\target\classes started by mirror in C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\spring-boot-tutorial)
+2024-06-29T04:00:17.171+08:00  INFO 26688 --- [unnamed] [main] com.mirror.Application                   : No active profile set, falling back to 1 default profile: "default"
+2024-06-29T04:00:17.711+08:00  INFO 26688 --- [unnamed] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-06-29T04:00:17.717+08:00  INFO 26688 --- [unnamed] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-29T04:00:17.717+08:00  INFO 26688 --- [unnamed] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-29T04:00:17.741+08:00  INFO 26688 --- [unnamed] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-29T04:00:17.741+08:00  INFO 26688 --- [unnamed] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 544 ms
+2024-06-29T04:00:17.795+08:00  WARN 26688 --- [unnamed] [main] com.zaxxer.hikari.HikariConfig           : HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2024-06-29T04:00:17.796+08:00  INFO 26688 --- [unnamed] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-06-29T04:00:18.011+08:00  INFO 26688 --- [unnamed] [main] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+2024-06-29T04:00:18.011+08:00  INFO 26688 --- [unnamed] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.hsqldb.jdbc.JDBCConnection@72543547
+2024-06-29T04:00:18.012+08:00  INFO 26688 --- [unnamed] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-06-29T04:00:18.264+08:00  INFO 26688 --- [unnamed] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-06-29T04:00:18.270+08:00  INFO 26688 --- [unnamed] [main] com.mirror.Application                   : Started Application in 1.328 seconds (process running for 1.706)
+2024-06-29T04:00:42.802+08:00  INFO 26688 --- [unnamed] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-29T04:00:42.802+08:00  INFO 26688 --- [unnamed] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-06-29T04:00:42.803+08:00  INFO 26688 --- [unnamed] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-06-29T06:09:18.738+08:00  WARN 26688 --- [unnamed] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m30s614ms622µs500ns).
+2024-06-29T11:42:57.850+08:00  INFO 26688 --- [unnamed] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-06-29T11:42:57.856+08:00  INFO 26688 --- [unnamed] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-06-29T11:43:03.256+08:00  INFO 32632 --- [unnamed] [restartedMain] com.mirror.Application                   : Starting Application using Java 21.0.3 with PID 32632 (C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\spring-boot-tutorial\spring-first\target\classes started by mirror in C:\Users\mirror\Desktop\fllow_working_knowledge\project\Java_project\spring-boot-tutorial)
+2024-06-29T11:43:03.258+08:00  INFO 32632 --- [unnamed] [restartedMain] com.mirror.Application                   : No active profile set, falling back to 1 default profile: "default"
+2024-06-29T11:43:03.286+08:00  INFO 32632 --- [unnamed] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-29T11:43:03.287+08:00  INFO 32632 --- [unnamed] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-29T11:43:04.007+08:00  INFO 32632 --- [unnamed] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-06-29T11:43:04.016+08:00  INFO 32632 --- [unnamed] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-29T11:43:04.016+08:00  INFO 32632 --- [unnamed] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-29T11:43:04.049+08:00  INFO 32632 --- [unnamed] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-29T11:43:04.049+08:00  INFO 32632 --- [unnamed] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 762 ms
+2024-06-29T11:43:04.164+08:00  WARN 32632 --- [unnamed] [restartedMain] com.zaxxer.hikari.HikariConfig           : HikariPool-1 - idleTimeout is close to or more than maxLifetime, disabling it.
+2024-06-29T11:43:04.165+08:00  INFO 32632 --- [unnamed] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-06-29T11:43:04.378+08:00  INFO 32632 --- [unnamed] [restartedMain] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+2024-06-29T11:43:04.379+08:00  INFO 32632 --- [unnamed] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.hsqldb.jdbc.JDBCConnection@60af2dd2
+2024-06-29T11:43:04.380+08:00  INFO 32632 --- [unnamed] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-06-29T11:43:04.672+08:00  INFO 32632 --- [unnamed] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-06-29T11:43:04.676+08:00  INFO 32632 --- [unnamed] [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 5 endpoint(s) beneath base path '/actuator'
+2024-06-29T11:43:04.724+08:00  INFO 32632 --- [unnamed] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-06-29T11:43:04.729+08:00  INFO 32632 --- [unnamed] [restartedMain] com.mirror.Application                   : Started Application in 1.771 seconds (process running for 2.343)
+2024-06-29T11:43:37.872+08:00  INFO 32632 --- [unnamed] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-29T11:43:37.872+08:00  INFO 32632 --- [unnamed] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-06-29T11:43:37.873+08:00  INFO 32632 --- [unnamed] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-06-29T20:30:13.450+08:00  WARN 32632 --- [unnamed] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=27m38s48ms591µs100ns).

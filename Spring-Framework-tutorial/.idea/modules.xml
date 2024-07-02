@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AOP-annotation-tutorial/AOP-annotation-tutorial.iml" filepath="$PROJECT_DIR$/AOP-annotation-tutorial/AOP-annotation-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOP-error-tutorial/AOP-error-tutorial.iml" filepath="$PROJECT_DIR$/AOP-error-tutorial/AOP-error-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOP-tutorial/AOP-tutorial.iml" filepath="$PROJECT_DIR$/AOP-tutorial/AOP-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOC-annotation-tutorial/IOC-annotation-tutorial.iml" filepath="$PROJECT_DIR$/IOC-annotation-tutorial/IOC-annotation-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOC-tutorial/IOC-tutorial.iml" filepath="$PROJECT_DIR$/IOC-tutorial/IOC-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-db/Spring-DB-tutorial.iml" filepath="$PROJECT_DIR$/Spring-db/Spring-DB-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Framework-tutorial.iml" filepath="$PROJECT_DIR$/.idea/Spring-Framework-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate-tutorial/spring-data-hibernate.iml" filepath="$PROJECT_DIR$/Hibernate-tutorial/spring-data-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-tutorial/spring-data-mybatis.iml" filepath="$PROJECT_DIR$/mybatis-tutorial/spring-data-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsign-orm/spring-data-orm.iml" filepath="$PROJECT_DIR$/dsign-orm/spring-data-orm.iml" />
+    </modules>
+  </component>
+</project>
